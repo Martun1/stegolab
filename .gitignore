@@ -1,0 +1,6 @@
+build/
+/stegolab
+*.exe
+cmake-build-*/
+.idea/
+.vscode/
